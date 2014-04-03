@@ -1,3 +1,5 @@
 Yes this is lib_a the best library your software project could ever have!
 
 And look at it, no bugs at all...
+
+Finally we have a stable release
